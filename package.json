@@ -1,0 +1,22 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "creating an RPG",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VMLujanJr/jest-another-RPG.git"
+  },
+  "author": "VMLujanJr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VMLujanJr/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/VMLujanJr/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^28.0.0"
+  }
+}
