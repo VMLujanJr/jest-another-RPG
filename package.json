@@ -4,7 +4,7 @@
   "description": "creating an RPG",
   "main": "app.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest --verbose"
   },
   "repository": {
     "type": "git",
