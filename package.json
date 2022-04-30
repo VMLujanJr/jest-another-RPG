@@ -4,7 +4,7 @@
   "description": "creating an RPG",
   "main": "app.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest --verbose"
   },
   "repository": {
     "type": "git",
@@ -18,5 +18,8 @@
   "homepage": "https://github.com/VMLujanJr/jest-another-RPG#readme",
   "devDependencies": {
     "jest": "^28.0.0"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.4"
   }
 }
